@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "primeiro_projeto",
+    "slug": "primeiro_projeto",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f5f5f5"
+    },
+    "android": {
+      "package": "com.app.suapp",
+      "versionCode": 1
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
