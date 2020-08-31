@@ -4,7 +4,6 @@ import React, {
 import {
     Text,
     Picker,
-    View,
     font,
     ScrollView,
     StyleSheet,
